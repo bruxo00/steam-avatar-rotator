@@ -1,5 +1,5 @@
 # Steam Avatar Rotator
-Changes your Steam avatar every X seconds between the ones you have choosen. 
+Changes your Steam avatar every X seconds between the ones you have chosen. 
 
 ## Why?
 Why not?
